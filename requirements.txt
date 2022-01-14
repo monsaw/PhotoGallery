@@ -1,6 +1,6 @@
 alabaster
 anaconda-client
-anaconda-navigator
+
 anaconda-project
 argh
 asgiref
