@@ -1,7 +1,7 @@
 alabaster
 anaconda-client
-
-anaconda-project
+anaconda-navigator
+anaconda-project==0.8.3
 argh
 asgiref
 asn1crypto
